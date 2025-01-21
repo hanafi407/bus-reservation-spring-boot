@@ -6,7 +6,7 @@ The **Bus Reservation System** is a web application that allows users to search,
 
 ## Tech Stack
 
-- **Frontend**: ReactJS
+- **Frontend**: Flutter
 - **Backend**: Spring Boot
 - **Database**: MySQL/PostgreSQL (customizable)
 - **API Communication**: RESTful APIs
@@ -18,18 +18,14 @@ The **Bus Reservation System** is a web application that allows users to search,
 - Search buses based on source, destination, and travel date.
 - View available seats and book tickets.
 - Manage bookings: cancel or modify tickets.
-- Payment gateway integration (optional).
-- User authentication and role-based access control.
-- Email notifications for bookings and cancellations.
-- Real-time seat availability updates.
 
 ---
 
 ## Installation
 
 ### Prerequisites
+- Flutter (for the frontend).
 - Java 21+ for backend (Spring Boot).
-- Node.js for frontend (ReactJS).
 - PostgreSQL database.
 
 ---
