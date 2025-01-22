@@ -24,7 +24,7 @@ The **Bus Reservation System** is a web application that allows users to search,
 ---
 
 ## Installation
-
+Go to [Bus-Reservation-Frontend](https://github.com/hanafi407/bus_reservation_flutter), and clone or download it.
 ### Prerequisites
 - Flutter (for the frontend).
 - Java 21+ for backend (Spring Boot).
@@ -36,5 +36,5 @@ The **Bus Reservation System** is a web application that allows users to search,
 
 1. Clone the backend repository:
    ```bash
-   git clone https://github.com/hanafi407/bus-reservation-backend.git
-   cd bus-reservation-backend
+   git clone https://github.com/hanafi407/bus-reservation-spring-boot.git
+   cd bus-reservation-spring-boot
